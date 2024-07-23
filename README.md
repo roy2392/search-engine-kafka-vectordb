@@ -122,20 +122,5 @@ Here's the full command-set to start the solution:
 }
 ```
 
-## License
 
-This article is an open-source project released under the MIT license. Thus, as long you distribute our LICENSE and acknowledge our work, you can safely clone or fork this project and use it as a source of inspiration for whatever you want (e.g., work, university projects, college degree projects, etc.).
-
-
-## Author
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Joywalker" target="_blank"><img src="https://github.com/Joywalker.png" width="100" style="border-radius:50%;"/></a></td>
-    <td>
-      <strong>Razvant Alex</strong><br />
-      <i>Senior ML Engineer</i>
-    </td>
-  </tr>
-</table>
 
